@@ -127,7 +127,7 @@ streamlit run main.py
 
 
 # 📺 sample Images
-!img["C:\Users\Shashi Kiran T\OneDrive\画像\Screenshots\Screenshot 2025-12-23 232237.png"]
+!["C:\Users\Shashi Kiran T\OneDrive\画像\Screenshots\Screenshot 2025-12-23 232237.png"]
 
 
 
