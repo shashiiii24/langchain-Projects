@@ -127,7 +127,14 @@ streamlit run main.py
 
 
 # 📺 sample Images
-!["C:\Users\Shashi Kiran T\OneDrive\画像\Screenshots\Screenshot 2025-12-23 232237.png"]
+<img width="1816" height="756" alt="Screenshot 2025-12-23 232237" src="https://github.com/user-attachments/assets/ccf23b72-6b2b-44bf-906c-d4dd9269877a" />
+
+<img width="1819" height="807" alt="Screenshot 2025-12-23 232337" src="https://github.com/user-attachments/assets/642ad7b4-2d9a-4194-a91e-5c5ba715f671" />
+
+<img width="1842" height="841" alt="Screenshot 2025-12-23 232416" src="https://github.com/user-attachments/assets/e52ae3ae-91cd-4e28-b55a-bd4cb5783dfd" />
+
+
+
 
 
 
