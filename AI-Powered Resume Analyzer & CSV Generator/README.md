@@ -125,6 +125,14 @@ streamlit run main.py
 #### If you’d like to discuss this project or collaborate, feel free to connect on LinkedIn or GitHub.
 
 
+
+# 📺 sample Images
+!img["C:\Users\Shashi Kiran T\OneDrive\画像\Screenshots\Screenshot 2025-12-23 232237.png"]
+
+
+
+
+
   
 
 
