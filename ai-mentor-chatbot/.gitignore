@@ -1,0 +1,31 @@
+# Environment variables
+*.env
+.env
+
+# Virtual environment folders
+venv/
+ENV/
+env/
+.venv/
+
+# Python virtual env files
+Scripts/
+Include/
+Lib/
+share/
+pyvenv.cfg
+etc/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
